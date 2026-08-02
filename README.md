@@ -6,6 +6,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;Learning+JavaScript+%26+Web+Development;Future+MERN+Stack+Developer;Building+Responsive+Websites;Always+Learning+New+Technologies" />
 
+📍 Karachi, Pakistan
+
 <img src="https://komarev.com/ghpvc/?username=Hassaan-Mahmood&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
@@ -32,21 +34,22 @@
 
 <p align="center">
 
-<a href="https://portfolio-student-813040.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://portfolio-student-813040.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
-
-<a href="https://github.com/Hassaan-Mahmood">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-22D3EE?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
 </a>
-
-<a href="https://linkedin.com/in/hassaan-mahmood007">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/hassaan-mahmood007" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
+<a href="https://www.facebook.com/ali.huzaifa.988" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
 <a href="mailto:hassaan2980@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+
 
 </p>
 
