@@ -89,11 +89,6 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hassaan-Mahmood&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassaan-Mahmood&layout=compact&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassaan-Mahmood&theme=tokyo-night&hide_border=true" />
 </p>
 
